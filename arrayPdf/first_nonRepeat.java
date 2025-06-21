@@ -4,7 +4,7 @@ Sample Input:
 Sample Output: 
 6 
 Explanation: 6 is the first element that doesn't appear more than once in the array.*/
-
+///not solved
 import java.util.Scanner;
 
 public class first_nonRepeat {
